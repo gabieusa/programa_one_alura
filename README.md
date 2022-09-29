@@ -8,4 +8,10 @@ Prrograma ONE com parceria ALURA
 
 Link: https://gabieusa.github.io/programa_one_alura/
 
+<div style="display:flex; " align="center">
+  
+### Barbearia Alura
+
+<img src="https://github.com/gabieusa/programa_one_alura/blob/master/logo.png"  width="40" height="40"/>
+  </div>
 
