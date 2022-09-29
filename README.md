@@ -12,6 +12,6 @@ Link: https://gabieusa.github.io/programa_one_alura/
   
 ### Barbearia Alura
 
-<img src="[https://github.com/gabieusa/programa_one_alura/blob/master/logo.png](https://github.com/gabieusa/programa_one_alura/blob/master/cabelo%2Bbarba.jpg)"  width="80" height="80"/>
+<img src="https://github.com/gabieusa/programa_one_alura/blob/master/cabelo%2Bbarba.jpg"  width="100" height="100"/>
   </div>
 
