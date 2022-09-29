@@ -8,6 +8,4 @@ Prrograma ONE com parceria ALURA
 
 Link: https://gabieusa.github.io/programa_one_alura/
 
-Link: https://gabieusa.github.io/programa_one_alura/produtos.html
 
-Link: https://gabieusa.github.io/programa_one_alura/contato.html
